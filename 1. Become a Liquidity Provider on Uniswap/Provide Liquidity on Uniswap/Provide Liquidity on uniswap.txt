@@ -1,0 +1,10 @@
+# Provide Liquidity on Uniswap
+-- How you can make your token buyable, for this purpose you have to create a pool 
+
+Step 01: Go to https://uniswap.org/
+Step 02: COnnect your wallet and account
+Step 03: Select Pool option
+Step 04: Follow screen shots given in directory.
+Step 05: Swap your token with Ether.
+
+Congratulations you are providing liquidity on uniswap.

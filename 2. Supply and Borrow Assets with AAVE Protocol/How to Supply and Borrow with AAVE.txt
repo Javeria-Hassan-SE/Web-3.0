@@ -1,0 +1,7 @@
+#How to Supply and Borrow with AAVE Protocol?
+
+Step 01: Go to https://aave.com/
+Step 02: Click on Launch App option
+Step 03: Connect your Wallet
+Step 04: Under Profile Section, turn on "Test Mode"
+Step 05: Follow Screen shots.

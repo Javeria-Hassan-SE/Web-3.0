@@ -1,0 +1,7 @@
+#How to create a DAO and add members?
+
+Step 01: Go to https://aragon.org/
+Step 02: Select Create DAO option
+Step 03: Connect your Wallet
+Step 04: Choose "Create an Organization" Option
+Step 05: Follow screen shots

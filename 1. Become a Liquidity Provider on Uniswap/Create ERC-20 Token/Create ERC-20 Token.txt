@@ -1,0 +1,12 @@
+# Create ERC-20 Token
+
+Step 01: Go to https://cointool.app/dashboard 
+Cointool is basicall a DAPP. 
+
+Step 02: Scroll down to sidebar and select Create Token option in ETH.
+Step 03: Connect you Wallet and account.
+Step 04: Provide required information. Choose your Unique token name and its supply.
+Step 05: Click on Create token, it will ask for confirmation and you have to wait for sometime.
+Step 06: Copy your token link and address.
+
+Congratulations! Your token has been created.

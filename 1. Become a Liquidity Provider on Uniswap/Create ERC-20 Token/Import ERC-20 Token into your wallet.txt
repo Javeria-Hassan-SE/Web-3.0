@@ -1,0 +1,3 @@
+Go to your metamask wallet.
+In assets portion, scroll down and click on option "Import token".
+Enter your token addrss there and add your ERC-20 token in your metamask wallet. 
